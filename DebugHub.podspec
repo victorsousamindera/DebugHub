@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DebugHub'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'DebugHub is a framework developed with intent to wrap other frameworks/tools'
 
 # This description is used to generate tags and improve search results.
