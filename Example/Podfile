@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DebugHub_Example' do
+  pod 'DebugHub', :path => '../'
+
+  target 'DebugHub_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
