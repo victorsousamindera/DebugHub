@@ -1,0 +1,22 @@
+{
+  "name": "DebugHub",
+  "version": "0.1.0",
+  "summary": "A short description of DebugHub.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/victorsousamindera/DebugHub",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "victorsousamindera": "victor.sousa@mindera.com"
+  },
+  "source": {
+    "git": "https://github.com/victorsousamindera/DebugHub.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DebugHub/Classes/**/*"
+}

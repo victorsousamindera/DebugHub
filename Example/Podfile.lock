@@ -1,0 +1,16 @@
+PODS:
+  - DebugHub (0.1.0)
+
+DEPENDENCIES:
+  - DebugHub (from `../`)
+
+EXTERNAL SOURCES:
+  DebugHub:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DebugHub: 09175a334ac5094ace7f65eceaf6cb0f6ef28a24
+
+PODFILE CHECKSUM: 292ac12f78e901f0367aa13d24a3e649763e07a3
+
+COCOAPODS: 1.8.4
